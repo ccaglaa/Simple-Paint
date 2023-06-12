@@ -1,6 +1,4 @@
 remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 # Simple-Paint
 This is a simple paint game made with Pygame module in Python for a beginner audience. A saving option is available made with the json module that loads the previous saved image.
 Run main.py file to run the game. 
