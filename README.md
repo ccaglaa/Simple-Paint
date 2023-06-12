@@ -1,3 +1,4 @@
+#theme : minima
 # Simple-Paint
 This is a simple paint game made with Pygame module in Python for a beginner audience. A saving option is available made with the json module that loads the previous saved image.
 Run main.py file to run the game. 
